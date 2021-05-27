@@ -1,0 +1,11 @@
+.btn.btn-default:hover {
+    background: #278197;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fs20 {
+    line-height: 1.6;
+}

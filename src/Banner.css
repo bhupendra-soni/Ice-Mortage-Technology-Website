@@ -1,0 +1,54 @@
+/* @media (max-width: 1500px)
+.container {
+    max-width: 100%;
+    padding-right: 30px;
+    padding-left: 30px;
+} */
+.az-hero-banner h1 {
+    color: #fff;
+    font-size: 28px;
+    line-height: 36px;
+}
+.az-hero-banner .az-media .az-media__content {
+    align-self: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-width: 60%;
+}
+
+.az-hero-banner .az-media .az-media__img {
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    
+}
+/* @media (max-width: 1440px)
+.az-hero-banner .az-media__img {
+    margin-right: -30px;
+    background-image: url(https://images.contentstack.io/v3/assets/blt93192b1072ac562d/blt0801cffb4b026663/608d6bf…/eClose_Overview_Image.png);
+
+} */
+
+.az-media__img {
+    background-image: 'https://images.contentstack.io/v3/assets/blt93192b1072ac562d/blt0801cffb4b026663/608d6bf…/eClose_Overview_Image.png';
+}
+
+
+.container {
+    display: block;
+    float: none;
+    max-width: 1440px;
+    padding-right: 0;
+    padding-left: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.az-hero-banner {
+    background: #005181;
+    padding: 0;
+    color: #fff;
+}

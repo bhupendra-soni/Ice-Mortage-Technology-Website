@@ -1,0 +1,19 @@
+footer#footer {
+    padding: 3% 0 !important;
+    background: #003555;
+    position: relative;
+    z-index: 1;
+}
+
+footer#footer .links-wrap {
+    font-size: 15px;
+}
+
+.brand.brand-elliemae {
+    width: 144px;
+    max-width: 100%;
+}
+.brand {
+    display: inline-block;
+    vertical-align: top;
+}
